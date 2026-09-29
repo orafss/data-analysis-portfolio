@@ -1,0 +1,9 @@
+# Core notebook environment
+jupyterlab>=4.0
+notebook>=7.0
+
+# Common data-analysis stack (used by later notebooks)
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+seaborn>=0.13
